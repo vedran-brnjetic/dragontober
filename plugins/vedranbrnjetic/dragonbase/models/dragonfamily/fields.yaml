@@ -1,0 +1,22 @@
+fields:
+    name:
+        label: 'Family Name'
+        span: auto
+        placeholder: Name
+        required: 1
+        type: text
+        comment: 'Dragon Family (Like Monstrous Nightmare)'
+    toothless_level:
+        label: 'Toothless level'
+        span: auto
+        type: number
+        comment: 'At which Toothless level is this family first available'
+    dragon_class:
+        label: 'Dragon Class'
+        nameFrom: name
+        descriptionFrom: description
+        select: name
+        span: auto
+        required: 1
+        type: relation
+        comment: 'Which class of dragons does this family belong to?'

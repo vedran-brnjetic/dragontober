@@ -1,0 +1,20 @@
+plugin:
+    name: 'vedranbrnjetic.dragonbase::lang.plugin.name'
+    description: 'vedranbrnjetic.dragonbase::lang.plugin.description'
+    author: 'Vedran Brnjetic'
+    icon: oc-icon-bug
+    homepage: ''
+navigation:
+    main-menu-dragons:
+        label: Dragons
+        url: vedranbrnjetic/dragonbase/dragonclasses
+        icon: icon-bug
+        sideMenu:
+            side-menu-dragons-class:
+                label: Classes
+                url: vedranbrnjetic/dragonbase/dragonclasses
+                icon: icon-sitemap
+            side-menu-dragon-families:
+                label: Families
+                url: vedranbrnjetic/dragonbase/dragonfamilies
+                icon: icon-paw

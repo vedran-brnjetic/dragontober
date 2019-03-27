@@ -1,0 +1,12 @@
+fields:
+    name:
+        label: 'Dragon Class Name'
+        span: left
+        required: 1
+        type: text
+        comment: 'Dragon class name'
+    description:
+        label: Description
+        span: full
+        type: text
+        comment: 'Short class description'

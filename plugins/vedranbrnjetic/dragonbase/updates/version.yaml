@@ -1,0 +1,20 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table vedranbrnjetic_dragonbase_dragon'
+    - builder_table_create_vedranbrnjetic_dragonbase_dragon.php
+1.0.3:
+    - 'Updated table vedranbrnjetic_dragonbase_dragon'
+    - builder_table_update_vedranbrnjetic_dragonbase_dragon.php
+1.0.4:
+    - 'Created table vedranbrnjetic_dragonbase_dragon_family'
+    - builder_table_create_vedranbrnjetic_dragonbase_dragon_family.php
+1.0.5:
+    - 'Updated table vedranbrnjetic_dragonbase_dragon_family'
+    - builder_table_update_vedranbrnjetic_dragonbase_dragon_family.php
+1.0.6:
+    - 'Created table vedranbrnjetic_dragonbase_dragon_class'
+    - builder_table_create_vedranbrnjetic_dragonbase_dragon_class.php
+1.0.7:
+    - 'Updated table vedranbrnjetic_dragonbase_dragon_class'
+    - builder_table_update_vedranbrnjetic_dragonbase_dragon_class.php

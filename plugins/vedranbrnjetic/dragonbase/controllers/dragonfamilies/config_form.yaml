@@ -1,0 +1,10 @@
+name: DragonFamilies
+form: $/vedranbrnjetic/dragonbase/models/dragonfamily/fields.yaml
+modelClass: VedranBrnjetic\Dragonbase\Models\DragonFamily
+defaultRedirect: vedranbrnjetic/dragonbase/dragonfamilies
+create:
+    redirect: 'vedranbrnjetic/dragonbase/dragonfamilies/update/:id'
+    redirectClose: vedranbrnjetic/dragonbase/dragonfamilies
+update:
+    redirect: vedranbrnjetic/dragonbase/dragonfamilies
+    redirectClose: vedranbrnjetic/dragonbase/dragonfamilies

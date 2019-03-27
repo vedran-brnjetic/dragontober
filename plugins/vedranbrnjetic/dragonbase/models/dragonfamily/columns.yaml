@@ -1,0 +1,22 @@
+columns:
+    id:
+        label: id
+        type: number
+        invisible: true
+    name:
+        label: Name
+        type: text
+        searchable: true
+        sortable: true
+    toothless_level:
+        label: 'Toothless Level'
+        type: number
+        searchable: true
+        sortable: true
+    dragon_class_id:
+        label: 'Dragon Class'
+        type: text
+        searchable: true
+        sortable: true
+        select: name
+        relation: dragon_class

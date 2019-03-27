@@ -1,0 +1,13 @@
+1553642418a:1:{s:33:"layouts-full-image-background.htm";a:7:{s:8:"fileName";s:33:"layouts-full-image-background.htm";s:7:"content";s:477:"[viewBag]
+title = "Full Image Background"
+url = "/layouts/full-image-background"
+layout = "fullImageBg"
+is_hidden = 0
+navigation_hidden = 0
+introTitle = "Full Image Background Intro"
+tagline = "The most powerful and free UI KIT for Bootstrap"
+btn1Text = "Sign up!"
+btn1Link = "https://mdbootstrap.com/getting-started/?utm_source=4e323a&utm_id=4e323a"
+btn2Text = "Learn more"
+btn2Link = "https://mdbootstrap.com/material-design-for-bootstrap/?utm_source=4e323a&utm_id=4e323a"
+==";s:5:"mtime";i:1553178532;s:6:"markup";s:0:"";s:4:"code";N;s:7:"viewBag";a:11:{s:5:"title";s:21:"Full Image Background";s:3:"url";s:30:"/layouts/full-image-background";s:6:"layout";s:11:"fullImageBg";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:10:"introTitle";s:27:"Full Image Background Intro";s:7:"tagline";s:47:"The most powerful and free UI KIT for Bootstrap";s:8:"btn1Text";s:8:"Sign up!";s:8:"btn1Link";s:72:"https://mdbootstrap.com/getting-started/?utm_source=4e323a&utm_id=4e323a";s:8:"btn2Text";s:10:"Learn more";s:8:"btn2Link";s:86:"https://mdbootstrap.com/material-design-for-bootstrap/?utm_source=4e323a&utm_id=4e323a";}s:12:"parsedMarkup";s:0:"";}}

@@ -1,0 +1,10 @@
+name: DragonClasses
+form: $/vedranbrnjetic/dragonbase/models/dragonclass/fields.yaml
+modelClass: VedranBrnjetic\Dragonbase\Models\DragonClass
+defaultRedirect: vedranbrnjetic/dragonbase/dragonclasses
+create:
+    redirect: 'vedranbrnjetic/dragonbase/dragonclasses/update/:id'
+    redirectClose: vedranbrnjetic/dragonbase/dragonclasses
+update:
+    redirect: vedranbrnjetic/dragonbase/dragonclasses
+    redirectClose: vedranbrnjetic/dragonbase/dragonclasses

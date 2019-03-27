@@ -1,0 +1,16 @@
+columns:
+    id:
+        label: id
+        type: number
+        invisible: true
+        sortable: true
+    name:
+        label: name
+        type: text
+        searchable: true
+        sortable: true
+    description:
+        label: 'vedranbrnjetic.dragonbase::lang.plugin.description'
+        type: text
+        searchable: false
+        sortable: false
