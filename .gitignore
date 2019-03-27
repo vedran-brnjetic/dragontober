@@ -20,6 +20,6 @@ Homestead.json
 .rocketeer/
 
 # October CMS Specific
-*/storage/
-*/vendor/
-*/bower_components/
+storage/*
+vendor/*
+bower_components/*
