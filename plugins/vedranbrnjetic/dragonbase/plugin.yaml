@@ -18,3 +18,7 @@ navigation:
                 label: Families
                 url: vedranbrnjetic/dragonbase/dragonfamilies
                 icon: icon-paw
+            side-menu-dragon-types:
+                label: Types
+                url: vedranbrnjetic/dragonbase/dragontypes
+                icon: icon-table

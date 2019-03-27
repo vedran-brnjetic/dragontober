@@ -1,0 +1,14 @@
+columns:
+    id:
+        label: id
+        type: number
+        invisible: true
+    name:
+        label: name
+        type: text
+        searchable: true
+        sortable: true
+    order_modifier:
+        label: order_modifier
+        type: text
+        sortable: true

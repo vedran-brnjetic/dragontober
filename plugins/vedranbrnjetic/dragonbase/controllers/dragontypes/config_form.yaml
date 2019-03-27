@@ -1,0 +1,10 @@
+name: DragonTypes
+form: $/vedranbrnjetic/dragonbase/models/dragontype/fields.yaml
+modelClass: VedranBrnjetic\Dragonbase\Models\DragonType
+defaultRedirect: vedranbrnjetic/dragonbase/dragontypes
+create:
+    redirect: 'vedranbrnjetic/dragonbase/dragontypes/update/:id'
+    redirectClose: vedranbrnjetic/dragonbase/dragontypes
+update:
+    redirect: vedranbrnjetic/dragonbase/dragontypes
+    redirectClose: vedranbrnjetic/dragonbase/dragontypes

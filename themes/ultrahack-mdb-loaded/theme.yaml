@@ -1,0 +1,8 @@
+name: 'Ultrahack MDB Loaded'
+description: 'Copy of MDB Loaded adapted for ultrahack (er click)'
+author: 'Zanor, VedranBrnjetic'
+homepage: ''
+code: ultrahack-mdb-loaded
+require:
+    - RainLab.Pages
+    - RainLab.Blog

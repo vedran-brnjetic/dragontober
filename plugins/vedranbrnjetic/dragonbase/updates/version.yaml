@@ -18,3 +18,9 @@
 1.0.7:
     - 'Updated table vedranbrnjetic_dragonbase_dragon_class'
     - builder_table_update_vedranbrnjetic_dragonbase_dragon_class.php
+1.0.8:
+    - 'Updated table vedranbrnjetic_dragonbase_dragon'
+    - builder_table_update_vedranbrnjetic_dragonbase_dragon_2.php
+1.0.9:
+    - 'Created table vedranbrnjetic_dragonbase_dragon_type'
+    - builder_table_create_vedranbrnjetic_dragonbase_dragon_type.php

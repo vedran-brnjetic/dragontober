@@ -1,0 +1,10 @@
+fields:
+    name:
+        label: 'Type Name'
+        span: auto
+        type: text
+    order_modifier:
+        label: 'Ordering Modifier'
+        span: auto
+        type: number
+        comment: 'Used for sorting the dragons according to rarity'
